@@ -1,0 +1,25 @@
+ .img{
+    border-radius: 30%;
+    border: 5px solid rgb(143, 39, 119);
+ }
+ h1{
+    text-align: center;
+    background-color: rgb(94, 58, 77);
+ }
+ .head3{
+    color: rgb(76, 0, 255);
+ }
+ h3{
+    color: rgb(76, 0, 255);
+ }
+ h4{
+    color: rgb(0, 83, 139);
+ }
+ .biginfo{
+    display: flex;
+    gap: 20px;
+
+ }
+ body{
+    margin: auto;
+ }
